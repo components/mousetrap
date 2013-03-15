@@ -1,0 +1,23 @@
+{
+  "name": "components/mousetrap",
+  "type": "component",
+  "description": "Simple library for handling keyboard shortcuts in Javascript",
+  "keywords": [
+    "keyboard",
+    "shortcuts",
+    "keybinding",
+    "accessibility"
+  ],
+  "homepage": "http://craig.is/killing/mice",
+  "license": "Apache-2.0",
+  "require": {
+    "robloach/component-installer": "*"
+  },
+  "extra": {
+    "component": {
+      "scripts": [
+        "mousetrap.js"
+      ]
+    }
+  }
+}
