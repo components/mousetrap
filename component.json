@@ -1,14 +1,8 @@
 {
   "name": "mousetrap",
+  "repo": "components/mousetrap",
   "version": "1.3.0",
   "description": "Simple library for handling keyboard shortcuts in Javascript",
-  "main": [
-    "mousetrap.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/components/mousetrap.git"
-  },
   "keywords": [
     "keyboard",
     "shortcuts",

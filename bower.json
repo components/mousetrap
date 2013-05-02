@@ -16,8 +16,5 @@
     "accessibility"
   ],
   "author": "Craig Campbell",
-  "license": "APLv2",
-  "scripts": [
-    "mousetrap.js"
-  ]
+  "license": "APLv2"
 }
