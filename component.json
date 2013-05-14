@@ -11,6 +11,7 @@
   ],
   "author": "Craig Campbell",
   "license": "APLv2",
+  "main": "mousetrap.js",
   "scripts": [
     "mousetrap.js"
   ]
