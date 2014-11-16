@@ -10,9 +10,6 @@
   ],
   "homepage": "http://craig.is/killing/mice",
   "license": "Apache-2.0",
-  "require": {
-    "robloach/component-installer": "*"
-  },
   "extra": {
     "component": {
       "scripts": [
